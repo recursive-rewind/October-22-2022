@@ -13,7 +13,7 @@ Team meeting of Recursive Rewind on October 22nd, 2022
 ### Tasks Assigned
 1. @M-Hassan-Raza to setup GitHub workflow
 2. @M-Hassan-Raza to assign tasks to the rest of hte team members
-3. @umer-farooq1784 to explore the codebase and read up on deocumentation
+3. @umer-farooq1784 to explore the codebase and read up on documentation
 4. @Taimoor2500 to decide and explore the testing framework
 5. @Taimoor2500 to decide, explore and do basic implementation of the automation framework
 
